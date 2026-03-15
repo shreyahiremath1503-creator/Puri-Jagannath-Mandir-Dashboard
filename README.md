@@ -1,4 +1,4 @@
-# Puri-Jagannath-Mandir-Dashboard
+# Puri-Jagannath-Mandir-Dashboard Analysis
 "Interactive Puri Jagannath Temple Dashboard using Power BI to analyze visitor patterns, festival attendance, donations, and facilities. Designed for research centers and tourism analysis, it provides insights into visitor demographics, events, and temple management for data-driven decision making."
 
 This project focuses on analyzing Puri Jagannath Temple visitor data using Power BI. It helps understand visitor patterns, festival attendance, donations, and temple facilities through interactive dashboards. The dashboard supports research and decision-making by presenting data clearly and visually.
